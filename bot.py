@@ -1,7 +1,8 @@
 from discord.ext import commands
 import random
 from riotwatcher import LolWatcher
-CODE = open("RIOT_TOKEN.txt", "r")
+file = open("RIOT_TOKEN.txt", "r")
+CODE = file.read()
    
 
 lol_watcher = LolWatcher(CODE)
