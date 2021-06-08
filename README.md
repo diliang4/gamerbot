@@ -9,4 +9,5 @@ actions :
 !wr "lol name" : returns the ranked win rate of the player
 !ranked "lol name" :  returns the ranked level of the player
 !champion : randomly selects champion that you should play
-<img width="916" alt="截屏2021-06-08 下午5 29 07" src="https://user-images.githubusercontent.com/73125585/121267856-74741380-c882-11eb-9b91-d6fb50d8c6b8.png">
+<img width="801" alt="截屏2021-06-08 下午6 11 17" src="https://user-images.githubusercontent.com/73125585/121269241-1694fb00-c885-11eb-82b5-8649da9707bb.png">
+
